@@ -1,0 +1,6 @@
+framework module SwiftUIXPod {
+  umbrella header "SwiftUIXPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

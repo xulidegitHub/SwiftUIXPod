@@ -1,5 +1,4 @@
 import XCTest
-import SwiftUIXPod
 
 class Tests: XCTestCase {
     

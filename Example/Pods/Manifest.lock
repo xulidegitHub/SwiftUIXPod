@@ -1,0 +1,16 @@
+PODS:
+  - SwiftUIXPod (0.1.0)
+
+DEPENDENCIES:
+  - SwiftUIXPod (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftUIXPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftUIXPod: 364631fae4c66352ceccc6bd98c5afdba55cad1f
+
+PODFILE CHECKSUM: 97a44d65f2616e5f4789112885914f03838f5fe5
+
+COCOAPODS: 1.15.2
